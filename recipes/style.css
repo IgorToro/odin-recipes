@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+body {
+    border: 1px solid black;
+    max-width: 752px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: #CCE5FF;
+}
+
+h2, h3 {
+    background-color: #E0E0E0;
+    padding-left: 5px;
+}
+
+p {
+    padding-left: 5px;
+}
